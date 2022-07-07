@@ -1,0 +1,15 @@
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\bin\Debug\net6.0\S5.exe
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\bin\Debug\net6.0\S5.deps.json
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\bin\Debug\net6.0\S5.runtimeconfig.json
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\bin\Debug\net6.0\S5.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\bin\Debug\net6.0\S5.pdb
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.csproj.AssemblyReference.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.AssemblyInfoInputs.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.AssemblyInfo.cs
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.csproj.CoreCompileInputs.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\refint\S5.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.pdb
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\S5.genruntimeconfig.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S5\obj\Debug\net6.0\ref\S5.dll
